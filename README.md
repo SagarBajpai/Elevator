@@ -7,6 +7,8 @@ In the project directory, you can run:
 ## Demo
 https://secure-bayou-54736.herokuapp.com/
 
+![](media/Elevator.gif)
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
